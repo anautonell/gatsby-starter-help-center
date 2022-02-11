@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Free Help Center`,
-    author: `Dominik Ferber`,
+    title: `myProtect Help Center`,
+    author: `anautonell`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Get a free self-hosted Help Center like this one`,
-    siteUrl: `https://help.dferber.de/`,
+    description: `Welcome to myProtect help center!`,
+    siteUrl: `https://help.myprotect.xyz/`,
     language: "en",
     texts: {
       allCollectionsText: "All Collections",
